@@ -1,5 +1,11 @@
 testing_branch.py
 
+# IDC API v3 dev artifacts
+.venv/
+*.duckdb
+.pytest_cache/
+.ruff_cache/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[~cod]
